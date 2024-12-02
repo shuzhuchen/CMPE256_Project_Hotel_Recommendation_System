@@ -9,3 +9,5 @@ A cluster-specific method was employed to group users and items into homogeneous
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/36acd31c-82cb-43a2-b211-5790ac570fed">
 
 Here is the workflow chart of our recommendation system.
+
+Dataset source: https://github.com/Diego999/HotelRec
