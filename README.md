@@ -4,4 +4,4 @@
 2. Neural Collaborative Filtering (NCF)
 3. Hybrid approach
 
-   A cluster-specific method was employed to group users and items into homogeneous subsets, improving prediction accuracy. Each model was evaluated using metrics such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and accuracy across multiple clusters. 
+A cluster-specific method was employed to group users and items into homogeneous subsets, improving prediction accuracy. Each model was evaluated using metrics such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and accuracy across multiple clusters. 
