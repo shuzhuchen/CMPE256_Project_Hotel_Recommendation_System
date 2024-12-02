@@ -6,6 +6,6 @@
 
 A cluster-specific method was employed to group users and items into homogeneous subsets, improving prediction accuracy. Each model was evaluated using metrics such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and accuracy across multiple clusters. 
 
-<img width="239" alt="image" src="https://github.com/user-attachments/assets/36acd31c-82cb-43a2-b211-5790ac570fed">
+<img width="339" alt="image" src="https://github.com/user-attachments/assets/36acd31c-82cb-43a2-b211-5790ac570fed">
 
 Here is the workflow chart of our recommendation system.
